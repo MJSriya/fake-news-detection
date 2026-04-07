@@ -1,10 +1,10 @@
-# 📰 Fake News Detection System
+# Fake News Detection System
 
 A full-stack machine learning project that detects whether a news article is **Fake or Real** using Natural Language Processing and a web-based interface.
 
 ---
 
-## 🚀 Features
+## Features
 - Text classification using Logistic Regression
 - TF-IDF vectorization for feature extraction
 - Fast API backend for real-time predictions
@@ -13,7 +13,7 @@ A full-stack machine learning project that detects whether a news article is **F
 
 ---
 
-## 🏗️ Project Architecture
+##Project Architecture
 
 1. **Model Training (`train.py`)**
    - Uses `TfidfVectorizer` + `LogisticRegression`
@@ -27,13 +27,11 @@ A full-stack machine learning project that detects whether a news article is **F
    - HTML, CSS, JavaScript (Vanilla)
    - Uses `fetch()` to communicate with backend
    - Smooth UI with animations
-
----
-
-## ⚙️ Tech Stack
+   - 
+Tech Stack
 - Python
 - Scikit-learn
 - FastAPI
 - HTML / CSS / JavaScript
 
----
+
